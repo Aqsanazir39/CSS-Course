@@ -1,0 +1,17 @@
+.test{
+border: 2px solid green;
+padding: 10px 20px;
+}
+.test2{
+  border:  2px solid teal;
+  margin: 20px;
+  margin-left: 50px;
+  margin-right: 50px;
+  padding: 10px 10px 10px 10px;
+}
+.test3{
+  padding: 20px;
+  width: 500px;
+  border: 2px solid plum ;
+  margin: 10px auto 0 auto;
+}

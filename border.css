@@ -1,0 +1,9 @@
+h1{
+  border: 2px red solid;
+}
+.p1{
+  border: 3px solid red;
+  padding: 10px;
+  outline: 3px solid green;
+  outline-offset: 4px;
+}
