@@ -1,0 +1,19 @@
+.box1{
+  width: 400px;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  border: 2px solid green;
+  margin-bottom: 20px;
+}
+h1{
+  color: black;
+  font-family: arial;
+  text-shadow: -2px -2px 2px red;
+}
+
+.box2{
+  width: 400px;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  border: 2px solid green;
+  white-space: pre-wrap;
+  
+}
