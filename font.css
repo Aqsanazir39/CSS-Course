@@ -1,0 +1,29 @@
+body{
+  font-size: 18px;
+  font-weight: 600;
+}
+
+.box{
+
+  width: 400px;
+  padding: 25px;
+  border: 2px solid black;
+  font-size: 1em;
+  margin-bottom: 20px;
+  line-height: 25px;
+  font-weight: 600;
+  font-style: italic;
+  font-variant: small-caps;
+}
+
+.box2{
+
+  width: 400px;
+  padding: 25px;
+  border: 2px solid black;
+  font-weight: bold;
+  font-style: oblique;
+}
+.box2 span{
+  font-size: 2em;
+}

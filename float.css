@@ -1,0 +1,35 @@
+/* .d1{
+  border: 3px solid black;
+  margin-bottom: 30px;
+  width: 500px;
+  float: left;
+  margin-right: 30px;
+}
+.d2{
+  border: 3px solid rgb(186, 77, 77);
+  width: 500px;
+  float: left;
+
+} */
+.box1{
+width: 400px;
+border: 2px solid black;
+background: pink;
+float: left;
+}
+
+.box2{
+  width: 400px;
+  
+border: 2px solid black;
+background: rgb(197, 23, 52);
+float: right;
+clear: both;
+}
+
+.box3{
+  width: 100%;
+border: 2px solid black;
+background: rgb(19, 162, 53);
+clear: both;
+}
